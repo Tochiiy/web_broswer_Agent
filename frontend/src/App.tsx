@@ -18,7 +18,7 @@ export default function App() {
     status, screenshot, thoughts,
     result, error, isConnected,
     stepCount, sendGoal, reset,
-  } = useWebSocket("wss:webbrosweragent-production.up.railway.app/ws")
+  } = useWebSocket("wss://web-broswer-agent.onrender.com/ws")
 
   return (
     <div style={{
