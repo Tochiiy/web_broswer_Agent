@@ -1,5 +1,7 @@
 # Autonomous Web Agent
 
+# NOTE Desktop mood only
+
 # live link https://web-browser-agent.vercel.app
 
 https://web-browser-agent.vercel.app
