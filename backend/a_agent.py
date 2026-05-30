@@ -17,7 +17,7 @@ client = OpenAI(
     timeout=60.0 
 )
 
-VISION_MODEL = "google/gemini-2.5-flash-preview"
+VISION_MODEL = "openrouter/free"
 MAX_STEPS = 15
 
 
