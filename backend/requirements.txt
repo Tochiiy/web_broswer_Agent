@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+websockets
+playwright
+openai
+python-dotenv
+httpx
